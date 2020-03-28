@@ -1,0 +1,29 @@
+{
+  "add_emp": {
+    "username":"詹姆斯123",
+    "mobile": "18245676547",
+    "http_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+    "query_emp": {
+    "http_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+    },
+      "modify_emp": {
+    "username":"小蝌蚪123",
+    "http_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+      },
+      "delete_emp": {
+    "http_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+    }
+}

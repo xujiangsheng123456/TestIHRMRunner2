@@ -1,0 +1,12 @@
+2020-03-28 22:04:36,609 INFO [root] [test_login_param.py(test_login_params:20)] - 登录结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'fefa79f3-6cd9-4ee4-9273-880164e162e8'}
+2020-03-28 22:04:36,687 INFO [root] [test_login_param.py(test_login_params:20)] - 登录结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-28 22:04:36,757 INFO [root] [test_login_param.py(test_login_params:20)] - 登录结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-28 22:04:36,825 INFO [root] [test_login_param.py(test_login_params:20)] - 登录结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-28 22:04:36,897 INFO [root] [test_login_param.py(test_login_params:20)] - 登录结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-28 22:04:36,969 INFO [root] [test_login_param.py(test_login_params:20)] - 登录结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-28 22:04:37,033 INFO [root] [test_login_param.py(test_login_params:20)] - 登录结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-28 22:04:37,102 INFO [root] [test_login_param.py(test_login_params:20)] - 登录结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '3f738b4c-15e7-4c4a-8396-ec21e252082b'}
+2020-03-28 22:04:37,172 INFO [root] [test_login_param.py(test_login_params:20)] - 登录结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-28 22:04:37,242 INFO [root] [test_login_param.py(test_login_params:20)] - 登录结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-28 22:04:37,311 INFO [root] [test_login_param.py(test_login_params:20)] - 登录结果为:{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-03-28 22:04:37,389 INFO [root] [test_login_param.py(test_login_params:20)] - 登录结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
