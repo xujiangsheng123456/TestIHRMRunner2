@@ -11,7 +11,8 @@ suite = unittest.TestSuite()
 suite.addTest(unittest.makeSuite(TestLogin))
 suite.addTest(unittest.makeSuite(TestEmp))
 now_time = time.strftime("%Y%m%d_%H%M%S")
-file_path = app.base_path + "/report/ihrm{}.html".format(now_time)
+
+file_path = app.base_path + "/report/ihrm.html"
 with open(file_path, "wb") as f :
     runner = HTMLTestRunner(f,verbosity=2,description="关于ihrm的报告",title="ihrm执行结果")
     runner.run(suite)
